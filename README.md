@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there!;I'm+O%C4%9Fuzhan+Okur)](https://git.io/typing-svg)
 
 <!--
 **oguzhannokur/oguzhannokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
